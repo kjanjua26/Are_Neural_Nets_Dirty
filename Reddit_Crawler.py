@@ -2,11 +2,11 @@ import praw
 import requests
 
 # Reddit keys
-client_id = 'vDn80yQ5BbWEig'
-client_secret = 'TDCbXa_9E8k0dX2DUTdrhmMnVls'
-username = 'nsfw_sfw_ml'
-password = 'waleedwifi'
-user_agent = 'mlclassifier'
+client_id = ''
+client_secret = ''
+username = ''
+password = ''
+user_agent = ''
 
 def NSFW_SFW(subreddit_name):
     reddit = praw.Reddit(client_id=client_id, 
