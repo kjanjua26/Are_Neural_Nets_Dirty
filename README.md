@@ -15,4 +15,4 @@ The dataset is prepared and fed into the neural network. We use AlexNet as a par
 To train the neural network, type `python3 train.py`.
 
 ## Testing
-The testing part of the network is under progress.
+For testing, either refer to the Python notebook or use the `inference.py` code. 
