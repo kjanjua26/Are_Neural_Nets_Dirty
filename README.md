@@ -16,3 +16,8 @@ To train the neural network, type `python3 train.py`.
 
 ## Testing
 For testing, either refer to the Python notebook or use the `inference.py` code. 
+
+## Results
+Sample result on images. 
+
+<img src="result.png"/>
