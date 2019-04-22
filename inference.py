@@ -1,5 +1,4 @@
 import tensorflow as tf
-import network, utils
 import cv2
 import numpy as np
 import alexnet
